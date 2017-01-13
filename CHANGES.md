@@ -1,6 +1,19 @@
 Changelog
 =========
 
+## [0.2.1](https://github.com/Reinmar/ckeditor5-a/compare/v0.2.0...v0.2.1) (2017-01-13)
+
+
+### Bug Fixes
+
+* Index module has own backup. ([9a3dea6](https://github.com/Reinmar/ckeditor5-a/commit/9a3dea6))
+
+
+### NOTE
+
+* Because I wanted to do it.
+
+
 ## [0.2.0](https://github.com/Reinmar/ckeditor5-a/compare/v0.1.0...v0.2.0) (2017-01-13)
 
 
