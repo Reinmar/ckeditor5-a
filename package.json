@@ -1,0 +1,19 @@
+{
+  "name": "test-a",
+  "version": "0.0.1",
+  "description": "Test A",
+  "dependencies": {
+    "test-b": "Reinmar/test-b",
+    "test-c": "Reinmar/test-c"
+  },
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reinmar/test-a.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Reinmar/test-a/issues"
+  },
+  "homepage": "https://github.com/Reinmar/test-a#readme"
+}
