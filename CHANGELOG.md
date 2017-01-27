@@ -1,6 +1,19 @@
 Changelog
 =========
 
+## [0.4.0](https://github.com/Reinmar/ckeditor5-a/compare/v0.3.1...v0.4.0) (2017-01-27)
+
+
+### Bug Fixes
+
+* Fixed some bug with something odd. ([956bf53](https://github.com/Reinmar/ckeditor5-a/commit/956bf53))
+
+
+### Features
+
+* Adding something new. Resolves [#123]([object Object]/123). ([7d9e120](https://github.com/Reinmar/ckeditor5-a/commit/7d9e120))
+
+
 ## [0.3.2](https://github.com/Reinmar/ckeditor5-a/compare/v0.3.1...v0.3.2) (2017-01-27)
 
 
