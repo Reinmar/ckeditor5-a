@@ -6,7 +6,10 @@
     "@ckeditor/ckeditor5-b": "^1.2.4",
     "@ckeditor/ckeditor5-c": "^1.1.4"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@ckeditor/ckeditor5-dev-env": "^3.0.2",
+    "gulp": "^3.9.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Reinmar/ckeditor5-a.git"
