@@ -1,6 +1,18 @@
 Changelog
 =========
 
+## [0.4.6](https://github.com/Reinmar/ckeditor5-a/compare/v1.0.0...v0.4.6) (2017-02-06)
+
+### Bug fixes
+
+* Message commit. ([c086a06](https://github.com/Reinmar/ckeditor5-a/commit/c086a06)), closes [#2](https://github.com/Reinmar/ckeditor5-a/issues/2) [#5](https://github.com/Reinmar/ckeditor5-a/issues/5) [#6](https://github.com/Reinmar/ckeditor5-a/issues/6)
+
+
+### NOTE
+
+* Nothing to add.
+
+
 ## [1.0.0](https://github.com/Reinmar/ckeditor5-a/compare/v0.4.5...v1.0.0) (2017-02-06)
 
 ### Features
