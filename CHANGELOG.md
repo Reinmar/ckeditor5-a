@@ -1,7 +1,7 @@
 Changelog
 =========
 
-## [0.4.6](https://github.com/Reinmar/ckeditor5-a/compare/v1.0.0...v0.4.6) (2017-02-06)
+## [1.0.1](https://github.com/Reinmar/ckeditor5-a/compare/v1.0.0...v1.0.1) (2017-02-06)
 
 ### Bug fixes
 
