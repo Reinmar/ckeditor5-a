@@ -1,6 +1,24 @@
 Changelog
 =========
 
+## [1.0.0](https://github.com/Reinmar/ckeditor5-a/compare/v0.4.5...v1.0.0) (2017-02-06)
+
+### Features
+
+* Added gulp and changelog task. Closes [#1](https://github.com/Reinmar/ckeditor5-a/issues/1). Closes [#2](https://github.com/Reinmar/ckeditor5-a/issues/2). ([ec57e76](https://github.com/Reinmar/ckeditor5-a/commit/ec57e76))
+* Main module displays `console.log`. Closes [#5](https://github.com/Reinmar/ckeditor5-a/issues/5). ([334a492](https://github.com/Reinmar/ckeditor5-a/commit/334a492)), closes [#6](https://github.com/Reinmar/ckeditor5-a/issues/6)
+* Removed empty file. Closes [#3](https://github.com/Reinmar/ckeditor5-a/issues/3), [#4](https://github.com/Reinmar/ckeditor5-a/issues/4). ([8a4b24d](https://github.com/Reinmar/ckeditor5-a/commit/8a4b24d))
+
+
+### BREAKING CHANGE
+
+* The main module will display `console.log`.
+
+### NOTE
+
+* It should also close [#4](https://github.com/Reinmar/ckeditor5-a/issues/4).
+
+
 ## [0.4.5](https://github.com/Reinmar/ckeditor5-a/compare/v0.4.4...v0.4.5) (2017-02-02)
 
 Internal changes only (updated dependencies, documentation, etc.).
