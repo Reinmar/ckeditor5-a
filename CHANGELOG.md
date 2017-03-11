@@ -1,6 +1,36 @@
 Changelog
 =========
 
+## [3.0.0](https://github.com/Reinmar/ckeditor5-a/compare/v2.1.0...v3.0.0) (2017-02-22)
+
+### Bug fixes
+
+* First fix. ([47ebaea](https://github.com/Reinmar/ckeditor5-a/commit/47ebaea))
+* Made a breaking change. ([0be9be8](https://github.com/Reinmar/ckeditor5-a/commit/0be9be8))
+* Second fix. ([25bb999](https://github.com/Reinmar/ckeditor5-a/commit/25bb999))
+
+### Features
+
+* Introduced foo (1). Closes: [#1](https://github.com/Reinmar/ckeditor5/issues/1). Closes: [#2](https://github.com/Reinmar/ckeditor5/issues/2). ([98c48c6](https://github.com/Reinmar/ckeditor5-a/commit/98c48c6))
+* Introduced foo (2). Closes: [#1](https://github.com/Reinmar/ckeditor5/issues/1). Closes: [#2](https://github.com/Reinmar/ckeditor5/issues/2). ([4b266d4](https://github.com/Reinmar/ckeditor5-a/commit/4b266d4))
+* Introduced foo. Closes: [#1](https://github.com/Reinmar/ckeditor5/issues/1). Closes: [#2](https://github.com/Reinmar/ckeditor5/issues/2). ([cb59c82](https://github.com/Reinmar/ckeditor5-a/commit/cb59c82))
+
+### Other changes
+
+* Foo. ([1e86e0e](https://github.com/Reinmar/ckeditor5-a/commit/1e86e0e))
+
+
+### BREAKING CHANGES
+
+* X doesn't equal Y anymore.
+
+### NOTE
+
+* Some note (2).
+* Another notei (2).
+* Some note (1).
+
+
 ## [2.1.1](https://github.com/Reinmar/ckeditor5-a/compare/v2.1.0...v2.1.1) (2017-02-10)
 
 Internal changes only (updated dependencies, documentation, etc.).
