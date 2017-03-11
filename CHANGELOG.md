@@ -1,6 +1,17 @@
 Changelog
 =========
 
+## [3.0.1](https://github.com/Reinmar/ckeditor5-a/compare/v3.0.0...v3.0.1) (2017-03-11)
+
+### Features
+
+* Lorem ipsum... ([ed02b36](https://github.com/Reinmar/ckeditor5-a/commit/ed02b36))
+
+### BREAKING CHANGES
+
+* Lololo...
+
+
 ## [3.0.0](https://github.com/Reinmar/ckeditor5-a/compare/v2.1.0...v3.0.0) (2017-02-22)
 
 ### Bug fixes
