@@ -1,6 +1,13 @@
 Changelog
 =========
 
+## [3.0.2](https://github.com/Reinmar/ckeditor5-a/compare/v3.0.1...v3.0.2) (2017-03-28)
+
+### Bug fixes
+
+* Typo. ([283e98e](https://github.com/Reinmar/ckeditor5-a/commit/283e98e))
+
+
 ## [3.0.1](https://github.com/Reinmar/ckeditor5-a/compare/v3.0.0...v3.0.1) (2017-03-11)
 
 ### Features
