@@ -1,6 +1,35 @@
 Changelog
 =========
 
+## [4.0.0](https://github.com/Reinmar/ckeditor5-a/compare/v3.1.6...v4.0.0) (2017-05-11)
+
+### Bug fixes
+
+* `ViewConverterBuilder#fromAttribute()` should not create incorrect matcher object for `Matcher` if passed attribute was other than `class` or `style`. Closes [#919](https://github.com/Reinmar/ckeditor5-a/issues/919). ([e731f8f](https://github.com/Reinmar/ckeditor5-a/commit/e731f8f))
+
+  Minor upgrades to `ViewConversionBuilder`:
+
+  * converters from `ViewConversionBuilder` will not convert if "creator function" returned `null`.
+  * simplified view converters building by making `ViewConversionBuilder#toAttribute()` `value` param optional. If not set, the attribute value is taken from converted view element.
+
+### Features
+
+* Introduced markers serialization. Closes [#787](https://github.com/Reinmar/ckeditor5-a/issues/787). Closes [#846](https://github.com/Reinmar/ckeditor5-a/issues/846). ([c2c20f2](https://github.com/Reinmar/ckeditor5-a/commit/c2c20f2))
+
+### Other changes
+
+* Default conversion. Mapper position mapping algorithms are now added as callbacks with low priority and are fired only if earlier callbacks did not provide a result. Closes [#884](https://github.com/Reinmar/ckeditor5-a/issues/884). ([214458b](https://github.com/Reinmar/ckeditor5-a/commit/214458b))
+
+### BREAKING CHANGES
+
+* `BuildModelConverter#fromMarkerCollapsed` is removed. Use `BuildModelConverter#fromMarker` instead.
+* Since default position mapping algorithms are attached with low priority, custom position mapping callbacks added with higher priority won't receive position calculated by default algorithms in data. To execute default position mapping algorithms and use their value, hook custom callback with lower priority.
+
+### NOTE
+
+* `insertUIElement` model to view converter now supports collapsed and non-collapsed ranges.
+
+
 ## [3.1.6](https://github.com/Reinmar/ckeditor5-a/compare/v3.1.5...v3.1.6) (2017-04-24)
 
 Internal changes only (updated dependencies, documentation, etc.).
