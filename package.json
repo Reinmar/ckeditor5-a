@@ -1,6 +1,6 @@
 {
   "name": "@ckeditor/ckeditor5-a",
-  "version": "4.1.0",
+  "version": "4.2.0",
   "description": "Test A",
   "dependencies": {
     "@ckeditor/ckeditor5-b": "^1.5.0",
