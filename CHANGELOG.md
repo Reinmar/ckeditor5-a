@@ -1,6 +1,13 @@
 Changelog
 =========
 
+## [4.2.0](https://github.com/Reinmar/ckeditor5-a/compare/v4.1.0...v4.2.0) (2017-06-08)
+
+### Features
+
+* Some feature in "A". Closes [#1](https://github.com/Reinmar/ckeditor5-a/issues/1). ([8a8eac0](https://github.com/Reinmar/ckeditor5-a/commit/8a8eac0))
+
+
 ## [4.1.0](https://github.com/Reinmar/ckeditor5-a/compare/v4.0.1...v4.1.0) (2017-06-08)
 
 ### Features
