@@ -3,8 +3,8 @@
   "version": "4.1.0",
   "description": "Test A",
   "dependencies": {
-    "@ckeditor/ckeditor5-b": "^1.4.13",
-    "@ckeditor/ckeditor5-c": "^3.0.9"
+    "@ckeditor/ckeditor5-b": "^1.5.0",
+    "@ckeditor/ckeditor5-c": "^3.1.0"
   },
   "devDependencies": {
     "@ckeditor/ckeditor5-dev-env": "^3.0.2",
